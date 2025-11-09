@@ -4,7 +4,8 @@ asp_name           = "task-board-asp-"
 sql_server_name    = "task-board-server-"
 sql_db_name        = "task-board-db-"
 sql_admin_login    = "teodor555"
-sql_admin_password = "parola"
+sql_admin_password = "081808Tedi"
 firewall_rule_name = "task-board-firewall-"
 
 repo_URL           = "https://github.com/TeodorDamyanov/TaskBoard"
+
